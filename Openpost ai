@@ -1,0 +1,10 @@
+app/
+components/
+lib/
+database/
+automation/
+ai/
+social/
+video/
+public/
+docs/
